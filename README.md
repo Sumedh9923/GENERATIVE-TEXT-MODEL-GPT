@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Model](https://img.shields.io/badge/Model-DistilGPT2-green)
+![NLP](https://img.shields.io/badge/Domain-NLP-orange)
+
 # GENERATIVE-TEXT-MODEL-GPT
 
 
